@@ -1,0 +1,30 @@
+body{
+    background-image: url("/static/images/sky_banner.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 85%;
+    
+}
+
+// #homebg{
+//     // margin-top: 100px;
+//     height: 100%;
+//     width: 100%; 
+// }
+
+.homefont{
+    font-family: 'EB Garamond', serif;
+    color: black;
+    z-index: +1;
+}
+
+.center{
+    margin: auto;
+    width: 20%;
+    border: 3px solid black;
+    text-align: center;
+}
+
+.flex-containter{
+    display: flex;
+}
